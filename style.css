@@ -1,0 +1,41 @@
+
+.container{
+    height: 400px;
+    width: 100%;
+    background-color: #FF6F6F;
+    display: flex;
+   
+}
+    
+    .container div{
+        background-color: #FF6F6F;
+        width: 300px;
+        margin: 10px;
+        height: 380px;
+}
+.container h3{
+    font-size: large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.container p{
+    color: black;
+    margin-left: 10px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+}
+
+.container h3:hover{
+    color: black;
+}
+.container p:hover{
+    color: white;
+}
+i{
+   margin: 5px;
+   font-size: larger;
+}
+i:hover{
+    color: white;
+}
